@@ -21,3 +21,5 @@ My best contact is this respository name, at gmail, which I imagine is common.
 Only slightly less pointless than yelling into the void is not sharing useful snippets. 
 
 Thus, please find some partially useful snippets.
+
+(I'm in the sporadic process of moving these out from behind the private-only wall, so this repo isn't as empty as it might seem)
